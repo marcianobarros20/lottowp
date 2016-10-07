@@ -1,0 +1,2 @@
+Lotto API V1.0 stable released
+	Implemented wp plugin restfull api for posts
