@@ -1,2 +1,5 @@
 Lotto API V1.0 stable released
 	Implemented wp plugin restfull api for posts
+
+Lotto API V2.0 Stable Released
+	Migrated uploads from old site
