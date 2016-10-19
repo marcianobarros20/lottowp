@@ -3,3 +3,7 @@ Lotto API V1.0 stable released
 
 Lotto API V2.0 Stable Released
 	Migrated uploads from old site
+
+
+Lotto API V3.0 Stable Released 
+	Migrated database from old site db
